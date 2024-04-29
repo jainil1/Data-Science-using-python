@@ -6,5 +6,4 @@ Core Python
 -Matplotlib with datasets
 -Seabornwith datasets
 -Supervise Learning Models with datasets
--Unsupervised Learning Models with datasets
 -Final Project  
